@@ -3,7 +3,7 @@
 ## Mohist-1.12.2
 #### [English](https://github.com/Mohist-Community/Mohist/blob/1.12.2/README.md) | [中文](https://github.com/Mohist-Community/Mohist/blob/1.12.2/README-zh.md) 
 
-## Il est très recommandé d'utiliser les dernières versions de Mohist pour résoudre rapidement les erreures !
+## Il est très recommandé d'utiliser les dernières versions de Mohist pour résoudre rapidement les erreurs !
 
 [![](https://ci.codemc.org/buildStatus/icon?job=Mohist-Community%2FMohist-1.12.2)](https://ci.codemc.org/job/Mohist-Community/job/Mohist-1.12.2/)
 ![](https://img.shields.io/github/stars/Mohist-Community/Mohist.svg?label=Stars)
